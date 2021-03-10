@@ -1,0 +1,10 @@
+Trong Alien Invasion
++ Người chơi điều khiển một con tàu xuất hiện tại chính giữa dưới cùng của màn hình
++ Người chơi có thể di chuyển con tàu phải và trái bằng cách sử dụng các phím mũi tên và bắn đạn bằng cách sử dụng
+phím cách.
++ Khi trò chơi bắt đầu, một đội người ngoài hành tinh lấp đầy bầu trời và di chuyển trên và xuống màn hình
++ Người chơi bắn và tiêu diệt người ngoài hành tinh.
++ Nếu người chơi bắn tất cả người ngoài hành tinh, một hạm đội mới xuất hiện di chuyển nhanh hơn so với hạm đội trước đó.
++ Nếu bất kỳ người ngoài hành tinh tấn công tàu của người chơi hoặc đến cuối màn hình, người chơi
+mất một con tàu.
++ Nếu người chơi mất ba tàu, trò chơi kết thúc.
